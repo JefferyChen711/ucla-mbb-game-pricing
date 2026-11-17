@@ -1,0 +1,15 @@
+grp,Purchase_Timing_Bucket,tix,rev,avg_price,share
+Other games,1-2 Days Before,2105,89355.0,42.449,0.079
+Other games,1-2 Months Before,5604,415472.0,74.138,0.21
+Other games,1-2 Weeks Before,2751,147353.0,53.563,0.103
+Other games,2+ Months Before,1389,118354.0,85.208,0.052
+Other games,2-4 Weeks Before,3963,242102.0,61.091,0.148
+Other games,3-7 Days Before,4533,235375.0,51.925,0.17
+Other games,Day Of,6352,246484.5,38.804,0.238
+Top-tier games,1-2 Days Before,1761,130305.0,73.995,0.064
+Top-tier games,1-2 Months Before,6595,581048.0,88.104,0.24
+Top-tier games,1-2 Weeks Before,2278,190095.0,83.448,0.083
+Top-tier games,2+ Months Before,6156,651492.0,105.83,0.224
+Top-tier games,2-4 Weeks Before,3898,299480.0,76.829,0.142
+Top-tier games,3-7 Days Before,3395,273419.0,80.536,0.123
+Top-tier games,Day Of,3441,244077.5,70.932,0.125

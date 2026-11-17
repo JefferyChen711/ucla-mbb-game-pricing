@@ -1,0 +1,13 @@
+# Confidential UCLA Athletics data - never commit
+data/raw/
+data/processed/
+*.twb
+*.twbx
+
+# Synthetic-run outputs (regenerate locally)
+reports/figures_synthetic/
+reports/synthetic/
+
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store

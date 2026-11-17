@@ -1,0 +1,33 @@
+{
+  "n_games": 65,
+  "elasticity_naive": 0.99,
+  "elasticity_controls": 0.1,
+  "elasticity_opponent_fe": -1.27,
+  "elasticity_opponent_fe_ci": [
+    -2.34,
+    -0.19
+  ],
+  "forecast_best_model": "ridge",
+  "forecast_cv": {
+    "baseline": {
+      "MAE_tickets": 730.885,
+      "median_APE": 0.493,
+      "corr_log": -0.098
+    },
+    "ridge": {
+      "MAE_tickets": 725.64,
+      "median_APE": 0.526,
+      "corr_log": 0.536
+    },
+    "gbm": {
+      "MAE_tickets": 788.522,
+      "median_APE": 0.55,
+      "corr_log": 0.52
+    }
+  },
+  "revenue_change_plus10pct_price": {
+    "Point estimate": -0.025,
+    "CI low (more elastic)": -0.12,
+    "CI high (less elastic)": 0.08
+  }
+}

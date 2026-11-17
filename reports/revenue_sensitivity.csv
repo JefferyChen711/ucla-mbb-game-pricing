@@ -1,0 +1,4 @@
+estimate,elasticity,minus_10pct,plus_10pct
+Point estimate,-1.2682,0.0287,-0.0252
+CI low (more elastic),-2.344,0.1521,-0.1202
+CI high (less elastic),-0.1925,-0.0816,0.08

@@ -1,0 +1,7 @@
+label,effect,lo,hi,p
+Weekend,0.0355,-0.3624,0.6819,0.8878
+Tip-off before 5 pm,0.1278,-0.3329,0.9067,0.6534
+USC rivalry,0.1547,-0.3727,1.1256,0.6441
+Conference opponent,0.2524,-0.3159,1.2928,0.4657
+Jan-Mar (conference season),0.781,0.1216,1.8282,0.0144
+National TV broadcast,0.809,0.0931,1.9939,0.0211
